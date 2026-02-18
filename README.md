@@ -31,6 +31,15 @@ To evaluate sales performance across regions, determine bonus eligibility, ident
 <img width="762" height="292" alt="image" src="https://github.com/user-attachments/assets/74527d18-1ea8-4fdb-83f7-f0105506bb61" />
 
 ---
+# Unemployment Report by Age & Gender – Tableau Dashboard
+
+## 📌 Overview
+
+This Tableau stacked area chart displays unemployment trends (2005-2015) by age groups (15-24, 25-34, 35-44, 45-54, 55-64 years) and gender, with peak spikes around 2009-2010 shown in distinct colored layers.
+
+## 🎯 Purpose
+
+To analyze demographic unemployment patterns, identify vulnerable age groups like youth during crises, and inform economic policy or workforce planning decisions.
 
 <img width="914" height="433" alt="image" src="https://github.com/user-attachments/assets/6c517858-a2a3-407b-beff-09aead912174" />
 

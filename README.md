@@ -35,7 +35,7 @@ To evaluate sales performance across regions, determine bonus eligibility, ident
 
 ## 📌 Overview
 
-This Tableau stacked area chart displays unemployment trends (2005-2015) by age groups (15-24, 25-34, 35-44, 45-54, 55-64 years) and gender, with peak spikes around 2009-2010 shown in distinct colored layers.
+This Tableau stacked area chart displays unemployment trends (2005-2015) by age groups (16-19, 20-24, 25-34, 35-44, 45-54, 55-64 years) and gender, with peak spikes around 2009-2010 shown in distinct colored layers.
 
 ## 🎯 Purpose
 

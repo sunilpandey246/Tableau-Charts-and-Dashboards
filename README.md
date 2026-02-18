@@ -1,12 +1,32 @@
-# Tableau-Charts-and-Dashboards
+# 🗺️ P&L Analysis by State – Tableau Dashboard
 
----
+## 📌 Overview
+This Tableau dashboard visualizes Profit and Loss (P&L) performance across U.S. states using a color-coded map. It highlights positive and negative profit values with clear state-level labeling for quick geographical comparison.
+
+## 🎯 Purpose
+To identify high-performing and loss-making states, analyze regional profitability trends, and support strategic business decisions based on location-based financial insights.
+
 <img width="755" height="451" alt="image" src="https://github.com/user-attachments/assets/2d128909-6e3e-453d-8f0b-9adaeee6f81e" />
 
 ---
+# 📊 Annual Reward – Top 3 Representatives | Tableau Dashboard
+
+## 📌 Overview
+This Tableau dashboard visualizes the top 3 sales representatives by region (Central, East, and West) based on total annual sales. It uses a bar chart to compare individual performance across regions for clear and structured analysis.
+
+## 🎯 Purpose
+To identify high-performing representatives in each region, evaluate regional sales contribution, and support performance-based rewards and strategic sales planning.
+
 <img width="720" height="324" alt="image" src="https://github.com/user-attachments/assets/1b3fb709-ba08-4d2b-93fb-6d8f1af5673b" />
 
 ---
+# 💰 Annual Bonus Analysis – Regional Performance | Tableau Dashboard
+
+## 📌 Overview
+This Tableau dashboard presents an annual bonus analysis by region (Central, East, and West) based on total sales. It compares individual representative performance using a region-wise color-coded bar chart for clear visibility.
+
+## 🎯 Purpose
+To evaluate sales performance across regions, determine bonus eligibility, identify top contributors, and support fair and data-driven incentive decisions.
 
 <img width="762" height="292" alt="image" src="https://github.com/user-attachments/assets/74527d18-1ea8-4fdb-83f7-f0105506bb61" />
 

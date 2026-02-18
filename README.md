@@ -44,6 +44,14 @@ To analyze demographic unemployment patterns, identify vulnerable age groups lik
 <img width="914" height="433" alt="image" src="https://github.com/user-attachments/assets/6c517858-a2a3-407b-beff-09aead912174" />
 
 ---
+# 📊 Sales Targets by Month – Tableau Dashboard
+
+##📌 Overview
+This Tableau dashboard displays monthly sales targets for Furniture, Office Supplies, and Technology categories using bar charts. It contrasts actual sales (blue bars) against targets (orange bars) from 2012 to 2013, revealing performance gaps and trends across product lines.
+​
+## 🎯 Purpose
+To evaluate sales achievement against targets over time, pinpoint underperforming months or categories, and guide inventory or marketing strategies based on historical performance data.
+​
 <img width="1085" height="431" alt="image" src="https://github.com/user-attachments/assets/ad9019bb-f0cd-444d-9009-6d4caa62322e" />
 ---
 

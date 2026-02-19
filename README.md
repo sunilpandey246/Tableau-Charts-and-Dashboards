@@ -100,8 +100,22 @@ It helps in monitoring business growth, improving forecasting accuracy, and supp
 
 ---
 
+# 🇬🇧 UK Bank Customers Analysis Dashboard (Tableau)
+
+## 📊 Overview
+This Tableau dashboard provides a comprehensive analysis of UK bank customers across regions including England, Scotland, Wales, and Northern Ireland.  
+It features a geographic distribution map, balance distribution analysis, age group segmentation, gender split, and job classification breakdown.  
+Interactive filters for Region, Balance Groups, Age Groups, and Gender allow dynamic exploration of customer data.
+
+## 🎯 Purpose
+The purpose of this dashboard is to understand customer demographics, financial distribution, and regional patterns.  
+It helps identify customer concentration, income segments, workforce classification (White Collar vs Blue Collar), and gender representation.  
+The insights support strategic decision-making in customer targeting, marketing, and regional business planning.
 
 <img width="936" height="426" alt="image" src="https://github.com/user-attachments/assets/03c7c430-7389-4b0f-bf90-70dcbe781a5e" />
+
+---
+
 
 
 

@@ -86,9 +86,21 @@ It helps identify growth trends, performance gaps, and areas that require strate
 
 ---
 
+# 📈 Sales vs Target Performance Analysis
+
+## 📊 Overview
+This dashboard compares monthly Sales and Target values from 2011 to 2015.  
+It also includes an Excess of Target analysis to highlight the difference between actual sales and planned targets.
+
+## 🎯 Purpose
+The purpose of this analysis is to measure performance against targets and identify periods of overperformance or underperformance.  
+It helps in monitoring business growth, improving forecasting accuracy, and supporting strategic decision-making.
+
 <img width="783" height="434" alt="image" src="https://github.com/user-attachments/assets/b5c954dc-9215-480b-8444-2c4bdcdd1a21" />
 
 ---
+
+
 <img width="936" height="426" alt="image" src="https://github.com/user-attachments/assets/03c7c430-7389-4b0f-bf90-70dcbe781a5e" />
 
 

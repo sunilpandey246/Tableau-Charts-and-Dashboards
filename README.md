@@ -58,6 +58,16 @@ To evaluate sales achievement against targets over time, pinpoint underperformin
 <img width="1085" height="431" alt="image" src="https://github.com/user-attachments/assets/ad9019bb-f0cd-444d-9009-6d4caa62322e" />
 ---
 
+# 🌍 Europe Sales & Customer Performance Analysis – Tableau Dashboard
+
+## 📊 Overview
+This dashboard presents a geographic and customer-level sales analysis across Europe.  
+It includes a Europe Map showing regional sales distribution and a Customer Scatter Plot analyzing Sales vs Profit performance.
+
+## 🎯 Purpose
+The purpose of this analysis is to identify high-performing regions, profit trends, and loss-making customers.  
+It supports better decision-making through data-driven insights and performance tracking.
+
 <img width="1006" height="455" alt="image" src="https://github.com/user-attachments/assets/39681c50-9795-4e76-80c6-27c0c5d15ee6" />
 
 ---

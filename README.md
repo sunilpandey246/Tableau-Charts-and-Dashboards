@@ -116,6 +116,32 @@ The insights support strategic decision-making in customer targeting, marketing,
 
 ---
 
+## 📌 Conclusion
+
+This Tableau repository demonstrates strong data visualization and dashboard development skills using real-world business scenarios.  
+It highlights the ability to analyze trends, track KPIs, and present insights through interactive and user-friendly dashboards.  
+The projects showcase practical knowledge of data storytelling, filtering, and performance analysis.  
+
+---
+
+## 🙌 Thank You
+
+Thank you for reviewing this project!
+
+---
+
+## 📢 Note
+
+This project is created for learning and portfolio purposes only.
+
+---
+
+## 👤 Author: Sunil Pandey  
+## 💼 Role: Data Analyst 
+## 📧 Contact: sunilpandey2468@gmail.com
+
+---
+
 
 
 

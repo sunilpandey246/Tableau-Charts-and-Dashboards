@@ -71,6 +71,17 @@ It supports better decision-making through data-driven insights and performance 
 <img width="1006" height="455" alt="image" src="https://github.com/user-attachments/assets/39681c50-9795-4e76-80c6-27c0c5d15ee6" />
 
 ---
+
+# 📊 Category-Wise Sales vs Target Analysis (Dual Axis Chart)
+
+## 📌 Overview
+This dashboard displays a Dual Axis Chart comparing Sales and Target values across three categories: Furniture, Office Supplies, and Technology.  
+The analysis is shown month-wise from 2011 to 2015 to track performance trends over time.
+
+## 🎯 Purpose
+The purpose of this analysis is to evaluate category performance against set targets.  
+It helps identify growth trends, performance gaps, and areas that require strategic improvement.
+
 <img width="761" height="433" alt="image" src="https://github.com/user-attachments/assets/f01f59e5-087a-4127-b580-ce7d94cf520e" />
 
 ---

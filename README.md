@@ -20,10 +20,10 @@ To identify high-performing representatives in each region, evaluate regional sa
 <img width="720" height="324" alt="image" src="https://github.com/user-attachments/assets/1b3fb709-ba08-4d2b-93fb-6d8f1af5673b" />
 
 ---
-# 💰 Annual Bonus Analysis – Regional Performance | Tableau Dashboard
+# 💰 Annual Bonus Analysis – Regional Performance | Bar Chart (Tableau)
 
 ## 📌 Overview
-This Tableau dashboard presents an annual bonus analysis by region (Central, East, and West) based on total sales. It compares individual representative performance using a region-wise color-coded bar chart for clear visibility.
+This Tableau Bar Chart presents an annual bonus analysis by region (Central, East, and West) based on total sales. It compares individual representative performance using a region-wise color-coded bar chart for clear visibility.
 
 ## 🎯 Purpose
 To evaluate sales performance across regions, determine bonus eligibility, identify top contributors, and support fair and data-driven incentive decisions.
@@ -31,7 +31,7 @@ To evaluate sales performance across regions, determine bonus eligibility, ident
 <img width="762" height="292" alt="image" src="https://github.com/user-attachments/assets/74527d18-1ea8-4fdb-83f7-f0105506bb61" />
 
 ---
-# Unemployment Report by Age & Gender – Tableau Dashboard
+# Unemployment Report by Age & Gender | Stacked Area Chart (Tableau)
 
 ## 📌 Overview
 
@@ -45,11 +45,11 @@ To analyze demographic unemployment patterns, identify vulnerable age groups lik
 
 ---
 
-# 📊 Sales vs. Targets by Month – Tableau Dashboard
+# 📊 Sales vs. Targets by Month  | Bar Chart (Tableau)
 
 ## 📌 Overview
 
-This Tableau dashboard displays monthly sales targets for Furniture, Office Supplies, and Technology categories using bar charts. It contrasts actual sales (blue bars) against targets (orange bars) from 2012 to 2013, revealing performance gaps and trends across product lines.
+This Tableau chart displays monthly sales targets for Furniture, Office Supplies, and Technology categories using bar charts. It contrasts actual sales (blue bars) against targets (orange bars) from 2012 to 2013, revealing performance gaps and trends across product lines.
 ​
 ## 🎯 Purpose
 

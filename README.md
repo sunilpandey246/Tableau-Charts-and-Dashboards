@@ -1,7 +1,7 @@
-# 🗺️ P&L Analysis by State – Tableau Dashboard
+# 🗺️ State-wise Profit & Loss Analysis (P&L) Map – Tableau
 
 ## 📌 Overview
-This Tableau dashboard visualizes Profit and Loss (P&L) performance across U.S. states using a color-coded map. It highlights positive and negative profit values with clear state-level labeling for quick geographical comparison.
+This Tableau Map visualizes Profit and Loss (P&L) performance across U.S. states using a color-coded map. It highlights positive and negative profit values with clear state-level labeling for quick geographical comparison.
 
 ## 🎯 Purpose
 To identify high-performing and loss-making states, analyze regional profitability trends, and support strategic business decisions based on location-based financial insights.

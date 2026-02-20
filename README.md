@@ -9,10 +9,10 @@ To identify high-performing and loss-making states, analyze regional profitabili
 <img width="755" height="451" alt="image" src="https://github.com/user-attachments/assets/2d128909-6e3e-453d-8f0b-9adaeee6f81e" />
 
 ---
-# 📊 Annual Reward – Top 3 Representatives | Tableau Dashboard
+# 📊 Annual Reward – Top 3 Representatives | Bar Chart (Tableau)
 
 ## 📌 Overview
-This Tableau dashboard visualizes the top 3 sales representatives by region (Central, East, and West) based on total annual sales. It uses a bar chart to compare individual performance across regions for clear and structured analysis.
+This Tableau Bar Chart visualizes the top 3 sales representatives by region (Central, East, and West) based on total annual sales. It uses a bar chart to compare individual performance across regions for clear and structured analysis.
 
 ## 🎯 Purpose
 To identify high-performing representatives in each region, evaluate regional sales contribution, and support performance-based rewards and strategic sales planning.

@@ -1,4 +1,4 @@
-# 🗺️ State-wise Profit & Loss Analysis (P&L) Map – Tableau
+# 🗺️ State-wise P&L Analysis Map – Tableau
 
 ## 📌 Overview
 This Tableau Map visualizes Profit and Loss (P&L) performance across U.S. states using a color-coded map. It highlights positive and negative profit values with clear state-level labeling for quick geographical comparison.

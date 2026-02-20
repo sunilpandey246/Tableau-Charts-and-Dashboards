@@ -60,10 +60,10 @@ To evaluate sales achievement against targets over time, pinpoint underperformin
 
 ---
 
-# 🌍 Europe Sales & Customer Performance Analysis – Tableau Dashboard
+# 🌍 Europe Sales & Customer Performance Analysis - Map & Scatter Plot (Tableau)
 
 ## 📊 Overview
-This dashboard presents a geographic and customer-level sales analysis across Europe.  
+This Visualization presents a geographic and customer-level sales analysis across Europe.  
 It includes a Europe Map showing regional sales distribution and a Customer Scatter Plot analyzing Sales vs Profit performance.
 
 ## 🎯 Purpose
@@ -74,10 +74,10 @@ It supports better decision-making through data-driven insights and performance 
 
 ---
 
-# 📊 Category-Wise Sales vs Target Analysis (Dual Axis Chart)
+# 📊 Category-Wise Sales vs Target Analysis | Dual Axis Chart (Tableau)
 
 ## 📌 Overview
-This dashboard displays a Dual Axis Chart comparing Sales and Target values across three categories: Furniture, Office Supplies, and Technology.  
+This Visualization displays a Dual Axis Chart comparing Sales and Target values across three categories: Furniture, Office Supplies, and Technology.  
 The analysis is shown month-wise from 2011 to 2015 to track performance trends over time.
 
 ## 🎯 Purpose

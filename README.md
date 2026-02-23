@@ -116,6 +116,9 @@ The insights support strategic decision-making in customer targeting, marketing,
 
 <img width="936" height="426" alt="image" src="https://github.com/user-attachments/assets/03c7c430-7389-4b0f-bf90-70dcbe781a5e" />
 
+![Book1](https://github.com/user-attachments/assets/d1240d88-51d5-4c79-aec8-c5e0f77b9d60)
+
+
 ---
 
 ## 📌 Conclusion
